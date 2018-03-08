@@ -1,4 +1,6 @@
 /* My configuration is going here to make merges easier. I'm testing this with NixOS currently.
 This will probably be replaced with a more nixos-like system in the future */
-@import "ui/gnome-3.26-light.css";
-/*@import "ui/csd.css";*/
+@import "ui/gnome-3.26-dark.css";
+@import "ui/hide-single-tab.css";
+@import "ui/matching-autocomplete-width.css";
+/*@import "ui/csd.css"; TODO*/

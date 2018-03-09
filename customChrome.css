@@ -4,3 +4,8 @@ This will probably be replaced with a more nixos-like system in the future */
 @import "ui/hide-single-tab.css";
 @import "ui/matching-autocomplete-width.css";
 /*@import "ui/csd.css"; TODO*/
+
+input, select {
+  color: white;
+  background-color: black;
+}

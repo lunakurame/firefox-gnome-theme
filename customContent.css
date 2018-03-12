@@ -1,0 +1,8 @@
+@import "pages/about-dark.css";
+@import "pages/view-source-dark.css";
+
+/* Fix input colors */
+input, textarea, select {
+  background: white;
+  color: black;
+}
